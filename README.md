@@ -6,6 +6,8 @@ Each experiment has 2 archives: xx_MOSOPy_zzzzzzzzzz, where xx relates to the tr
 Each objective function is sepparated from another one by a commom 'empty space' string. You can import it using Excel or any sheet software of your choice.
 Note that if you have any code capable of extract non-dominated solutions from a set of points, you should obtain the non-dominated from the dominated.
 
+Please move into the branches of this repository to see the files.
+
 If you're using any of these, please mention our paper.
 
 
